@@ -31,6 +31,6 @@
 Тестирование производилось в следующем окружении:
 * Microsoft Windows [Version 10.0.19042.685] x64
 * java version "11.0.9" 2020-10-20 LTS
-*IntelliJ IDEA 2020.3 (Community Edition) Build #IC-203.5981.155, built on December 1, 2020
+* IntelliJ IDEA 2020.3 (Community Edition) Build #IC-203.5981.155, built on December 1, 2020
 
 
