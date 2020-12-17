@@ -7,8 +7,8 @@
 На тестирование затрачено: 2 часa
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/GeorgKonst/Java-1.1/issues/1
-* https://github.com/GeorgKonst/Java-1.1/issues/2
+* https://github.com/GeorgKonst/Java-1.1-2/issues/1
+* https://github.com/GeorgKonst/Java-1.1-2/issues/2
 
 ## Описание процесса тестирования
 
@@ -24,8 +24,6 @@
 * MasterCard: 5392331671884967
 * American Express (AMEX): 373681953492770
 * Maestro: 5020116793425728
-
-
 
 
 Тестирование производилось в следующем окружении:
