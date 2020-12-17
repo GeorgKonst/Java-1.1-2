@@ -18,12 +18,12 @@
 * Отчет о тестировании
 
 В качестве тестовых данных использовались номера карт различных банков с сервиса https://www.freeformatter.com/credit-card-number-generator-validator.html:
-VISA: 4556663560439569
-Discover: 6011146717112804
-Diners Club - Carte Blanche: 30113475850637
-MasterCard: 5392331671884967
-American Express (AMEX): 373681953492770
-Maestro: 5020116793425728
+* VISA: 4556663560439569
+* Discover: 6011146717112804
+* Diners Club - Carte Blanche: 30113475850637
+* MasterCard: 5392331671884967
+* American Express (AMEX): 373681953492770
+* Maestro: 5020116793425728
 
 
 
