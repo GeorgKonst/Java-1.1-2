@@ -7,8 +7,8 @@
 На тестирование затрачено: 2 часa
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/GeorgKonst/Java-1.1-2/issues/1
-* https://github.com/GeorgKonst/Java-1.1-2/issues/2
+* [Не проходит валидация номера карт бренда American Express #1](https://github.com/GeorgKonst/Java-1.1-2/issues/1)
+
 
 ## Описание процесса тестирования
 
